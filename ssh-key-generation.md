@@ -17,15 +17,15 @@ To generate a new SSH key, copy and paste the text below, making sure to substit
 ```
 $ ssh-keygen -t rsa -C "your_email@example.com"
 # Creates a new ssh key, using the provided email as a label
-# Generating public/private rsa key pair.
-# Enter file in which to save the key (/Users/you/.ssh/id_rsa): [Press enter]
+Generating public/private rsa key pair.
+Enter file in which to save the key (/Users/you/.ssh/id_rsa): [Press enter]
 ```
 
 Next, you'll be asked to enter a passphrase. 
 
 ```
 Enter passphrase (empty for no passphrase): [Type a passphrase]
-# Enter same passphrase again: [Type passphrase again]
+Enter same passphrase again: [Type passphrase again]
 ```
 
 A passphrase makes your SSH key more secure, but if you use one make sure you don't forget it. We recommend you let your Mac remember your passphrase when prompted. Feel free to not use any passphrase. 
@@ -34,18 +34,18 @@ Which should give you something like this:
 
 ```
 Your identification has been saved in /Users/you/.ssh/id_rsa.
-# Your public key has been saved in /Users/you/.ssh/id_rsa.pub.
-# The key fingerprint is:
-# 01:0f:f4:3b:ca:85:d6:17:a1:7d:f0:68:9d:f0:a2:db your_email@example.com
+Your public key has been saved in /Users/you/.ssh/id_rsa.pub.
+The key fingerprint is:
+01:0f:f4:3b:ca:85:d6:17:a1:7d:f0:68:9d:f0:a2:db your_email@example.com
 ```
 
 Then add your new key to the ssh-agent:
 
 ```
 # start the ssh-agent in the background
-eval "$(ssh-agent -s)"
-# Agent pid 59566
-ssh-add ~/.ssh/id_rsa
+$ eval "$(ssh-agent -s)"
+Agent pid 59566
+$ ssh-add ~/.ssh/id_rsa
 ```
 
 ## Step 3: Add your SSH key to your account
@@ -85,16 +85,15 @@ $ ssh -T git@github.com
 You may see this warning:
 
 ```
-# The authenticity of host 'github.com (207.97.227.239)' can't be established.
-# RSA key fingerprint is 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48.
-# Are you sure you want to continue connecting (yes/no)?
+The authenticity of host 'github.com (207.97.227.239)' can't be established.
+RSA key fingerprint is 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48.
+Are you sure you want to continue connecting (yes/no)?
 ```
 
 Don't worry! This is supposed to happen. Verify that the fingerprint in your terminal matches the one we've provided up above, and then type "yes."
 
 ```
-# Hi username! You've successfully authenticated, but GitHub does not
-# provide shell access.
+Hi username! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
 If that username is yours, you've successfully set up your SSH key! Don't worry about the "shell access" thing, you don't want that anyway.
