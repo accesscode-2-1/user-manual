@@ -1,24 +1,31 @@
 
 # Class Tools for Communicating and Collaborating
 
-We will be communicating with each other and collaborating extensively throughout Access Code. To keep things efficient and all in one place, we have set up some systems for you to use for communicating with each other and with instructors and TAs. Access Code is meant to prepare you for a career in tech, and that includes using all the cool tools that professional developers use. All the tools we will be using in this course are used extensively by professional developers, and we think they're great!
+We will be communicating with each other and collaborating extensively throughout Access Code. To keep things efficient, we have set up some systems for you to use for communicating with each other and with instructors and TAs. Access Code is meant to prepare you for a career in tech, and that includes using all the cool tools that professional developers use. All the tools we will be using in this course are used extensively by professional developers, and we also think they're great!
 
 ## Communications
 
 We will primarily use [Slack](https://slack.com/) for communicating with each other. Slack is at heart a chat application, but all conversations are archived and searchable so you can always go back and revisit helpful conversations. Slack is used at many major tech companies (you know the names), so we've decided to do the same. 
 
-We'll set up Slack together and discuss how we'll use it throughout the course. We recommend downloading the Android or iOS Slack app to keep up to date when you're not at your computer. 
+We'll set up Slack together and discuss how we'll use it throughout the course. We recommend downloading the [Android](https://play.google.com/store/apps/details?id=com.Slack) or [iOS](https://itunes.apple.com/us/app/id618783545) Slack app to keep up to date when you're not at your computer. 
+
+We will be sending important announcements through Slack, so please don't hesitate to get in touch with ay of the Access Code staff if you're having issues with it. 
 
 ## Work assignment, submission and review
 
 Assignments will be posted on Github in the appropriate repo for that course unit. The most recent assignment will appear at the top of the README.md, and the corresponding materials for the assignment will be added to the repo in a directory just for that assignment. 
 
-You will submit assignments via Github. After cloning the repo and completing the assignment, we ask that you commit your changes and submit a pull request on that unit's repo with your completed assignemnt. If this doesn't make sense to you now, don't worry. We will cover everything in class. 
+You will submit assignments via Github as follows. The process may be confusing at first, but bear with it and it'll become second nature. 
 
-Instructors and TAs will review your work and give comments on your pull request directly. Once reviewed, they will close the pull request. 
+1. Clone the current unit's repo
+2. Checkout a new branch (`git checkout -b assignment`)
+3. Complete the assignment (easier said than done, eh?)
+4. Stage and commit your changes (`git add -A .` then `git commit -m "brief description of changes"`)
+5. Submit a pull request on that unit's repo with your completed assignment. Check out [Github's pull request help page](https://help.github.com/articles/creating-a-pull-request/) if you have any issues. 
+6. Do a little dance!
+
+Instructors and TAs will review your work and give comments on your pull request directly. Once reviewed, they will close the pull request. This doesn't mean you did anything wrong, it simply means your work was reviewed. 
 
 ## Pair and group work
 
 For pair and group projects, students will create a shared repo on Github for each project. Instructors and TAs can view their code at any time, and give feedback when appropriate. 
-
-
