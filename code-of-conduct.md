@@ -14,7 +14,7 @@ Class participants asked to stop any harassing behavior are expected to comply i
 
 If a participant engages in harassing behavior, the program managers may take any action they deem appropriate, including warning the offender or expulsion from the program.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Aliya, AQ, or any of the C4Q staff immediately.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact [Aliya](mailto:aliya@c4q.nyc), [AQ](mailto:aq@c4q.nyc), or any of the C4Q staff immediately.
 
 C4Q staff will be happy to help participants contact security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the program. We value your presence and safety.
 
