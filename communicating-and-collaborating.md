@@ -19,6 +19,6 @@ Instructors and TAs will review your work and give comments on your pull request
 
 ## Pair and group work
 
-For pair and group projects, students will create a shared repo for each project. Instructors and TAs can view their code at any time, and give feedback when appropriate. 
+For pair and group projects, students will create a shared repo on Github for each project. Instructors and TAs can view their code at any time, and give feedback when appropriate. 
 
 
