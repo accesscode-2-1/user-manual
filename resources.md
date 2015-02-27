@@ -22,21 +22,6 @@ This page has links to some great resources for Android developers of all levels
   We will be using Udemy’s videos throughout the course. 
 
 
-## Tech Community
-
-* __[Hacker News](https://news.ycombinator.com/)__
-
-  This is the go-to site for many people who work in tech. It has both technical and consumer-oriented posts. 
-
-* __[Fred Wilson's Blog](http://avc.com/)__
-
-  Fred Wilson is a startup investor in NYC, and the cofounder of Union Square Ventures. He
-
-* __[TechCrunch](http://techcrunch.com/)__
-
-  TechCrunch is a great source for keeping up with general tech news. It tends to be consumer-oriented and not very technical. 
-
-
 ## General Dev Resources
 
 * __[StackOverflow](stackoverflow.com)__
@@ -55,4 +40,20 @@ This page has links to some great resources for Android developers of all levels
 * __[Oracle Java Docs](docs.oracle.com/javase/7/docs/api)__
 
 * __[Google Android Docs](developer.android.com/guide/index.html)__
+
+
+## Tech Community
+
+* __[Hacker News](https://news.ycombinator.com/)__
+
+  This is the go-to site for many people who work in tech. It has both technical and consumer-oriented posts. 
+
+* __[Fred Wilson's Blog](http://avc.com/)__
+
+  Fred Wilson is a startup investor in NYC, and the cofounder of Union Square Ventures. He
+
+* __[TechCrunch](http://techcrunch.com/)__
+
+  TechCrunch is a great source for keeping up with general tech news. It tends to be consumer-oriented and not very technical. 
+
 
