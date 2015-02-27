@@ -5,7 +5,7 @@ We will be communicating with each other and collaborating extensively throughou
 
 ## Communications
 
-We will primarily use Slack for communicating with each other. Slack is at heart a chat application, but all conversations are archived and searchable so you can always go back and revisit helpful conversations. Slack is used at many major tech companies (you know the names), so we've decided to do the same. 
+We will primarily use [Slack](https://slack.com/) for communicating with each other. Slack is at heart a chat application, but all conversations are archived and searchable so you can always go back and revisit helpful conversations. Slack is used at many major tech companies (you know the names), so we've decided to do the same. 
 
 We'll set up Slack together and discuss how we'll use it throughout the course. We recommend downloading the Android or iOS Slack app to keep up to date when you're not at your computer. 
 
