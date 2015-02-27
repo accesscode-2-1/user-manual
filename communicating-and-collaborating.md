@@ -18,9 +18,9 @@ Assignments will be posted on Github in the appropriate repo for that course uni
 You will submit assignments via Github as follows. The process may be confusing at first, but bear with it and it'll become second nature. 
 
 1. Clone the current unit's repo
-2. Checkout a new branch (`git checkout -b assignment`)
+2. Checkout a new branch (`git checkout -b branch-name`)
 3. Complete the assignment (easier said than done, eh?)
-4. Stage and commit your changes (`git add -A .` then `git commit -m "brief description of changes"`)
+4. Stage and commit your changes (`git add -A .` then `git commit -m "completed assignment with fortitude and flair"`)
 5. Submit a pull request on that unit's repo with your completed assignment. Check out [Github's pull request help page](https://help.github.com/articles/creating-a-pull-request/) if you have any issues. 
 6. Do a little dance!
 
