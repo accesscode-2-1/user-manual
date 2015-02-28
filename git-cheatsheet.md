@@ -36,6 +36,8 @@ project/              <-- working directory
 └── .git/             <-- git directory
 ```
 
+![](https://github.com/accesscode-2-1/user-manual/blob/master/git-trees.png)
+
 ## Command Line Basics
 
 * `pwd`
@@ -84,6 +86,3 @@ Follow these steps to save your changes as a new version:
   * `$ git pull`
 4. push your changes
   * `$ git push`
-
-
-![](https://github.com/accesscode-2-1/user-manual/blob/master/git-trees.png)
