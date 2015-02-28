@@ -13,7 +13,7 @@ This page has some quick info on git that you can use as a reference. This guide
 
 * __repository (repo)__: the place where the history of your work is stored (.git folder)
 
-* __$__: The dollar sign is commonly used to represent the command line. Anything to the right of it is what you enter (ex. “$ ls” means you enter “ls”)
+* __$__: The dollar sign is commonly used to represent the command line. Anything to the right of it is what you enter (ex. `$ ls` means you enter `ls`)
 
 * __remote__: stored on another computer (usually a server or Github)
 
