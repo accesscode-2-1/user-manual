@@ -29,3 +29,15 @@ Instructors and TAs will review your work and give comments on your pull request
 ## Pair and group work
 
 For pair and group projects, students will create a shared repo on Github for each project. Instructors and TAs can view their code at any time, and give feedback when appropriate. 
+
+### Pair programming
+
+We will be pair programming most of the time. Pairs of students take turns "driving." 
+
+Pairing format:
+
+1. Student 1 "drives" on his/her computer  while student 2 assists
+2. After 30min / 1hr, student 1 commits and pushes his/her changes
+3. Pair switch to student 2's computer 
+4. Student 2 pulls the most recent changes, and keeps working
+5. Repeat!
