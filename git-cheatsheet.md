@@ -86,4 +86,4 @@ Follow these steps to save your changes as a new version:
   * `$ git push`
 
 
-git-trees.png
+![](https://github.com/accesscode-2-1/user-manual/blob/master/git-trees.png)
