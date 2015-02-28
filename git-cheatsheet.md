@@ -5,19 +5,19 @@ This page has some quick info on git that you can use as a reference. This guide
 
 ## Key terms
 
-__command line__: a tool for entering text commands into a computer (varies based on OS). For Mac we use the Terminal app. 
+* __command line__: a tool for entering text commands into a computer (varies based on OS). For Mac we use the Terminal app. 
 
-__git__: a command line tool for storing and managing changes made to files in a project (usually code)
+* __git__: a command line tool for storing and managing changes made to files in a project (usually code)
 
-__Github__: a web app that integrates with git and amplifies its functionality with a web-based interface and a social component
+* __Github__: a web app that integrates with git and amplifies its functionality with a web-based interface and a social component
 
-__repository (repo)__: the place where the history of your work is stored (.git folder)
+* __repository (repo)__: the place where the history of your work is stored (.git folder)
 
-__$__: The dollar sign is commonly used to represent the command line. Anything to the right of it is what you enter (ex. “$ ls” means you enter “ls”)
+* __$__: The dollar sign is commonly used to represent the command line. Anything to the right of it is what you enter (ex. “$ ls” means you enter “ls”)
 
-__remote__: stored on another computer (usually a server or Github)
+* __remote__: stored on another computer (usually a server or Github)
 
-__commit__: a single unit of changes to the project. Git works best when commits are small and frequent.
+* __commit__: a single unit of changes to the project. Git works best when commits are small and frequent.
 
 
 Local git repository consists of three “trees”:
