@@ -10,7 +10,7 @@ Welcome to Access Code! Please take the time to read through these:
 * [Student resources](resources.md): Student resources
 
 
-**Cheatsheets***
+**Cheatsheets**
 
 * [Git cheatsheet](git-cheatsheet.md)
 * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
