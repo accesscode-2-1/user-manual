@@ -13,4 +13,5 @@ Welcome to Access Code! Please take the time to read through these:
 **Cheatsheets**
 
 * [Git cheatsheet](git-cheatsheet.md)
+* [What is markdown?](https://guides.github.com/features/mastering-markdown/)
 * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
