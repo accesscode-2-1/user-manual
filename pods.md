@@ -16,7 +16,7 @@
 
 * Peer group meeting
 * Write 1 post on medium about something you learned (technical / non technical)
-* Tweet 1+ piece of content
+* At least 1 tweet 
 
 
 ### Weekly pod meeting
