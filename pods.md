@@ -10,7 +10,6 @@
 * Support
 * Accountability
 * Model engineering team practices
-* Venting
 
 ### Weekly non-programming requirements
 
