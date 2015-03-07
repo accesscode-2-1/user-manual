@@ -15,3 +15,4 @@ Welcome to Access Code! Please take the time to read through these:
 * [Git cheatsheet](git-cheatsheet.md)
 * [What is markdown?](https://guides.github.com/features/mastering-markdown/)
 * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Git + IntelliJ Workflow](https://gist.github.com/noidontdig/fb11060af19159d040f8)
