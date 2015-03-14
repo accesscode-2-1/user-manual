@@ -9,6 +9,7 @@ Welcome to Access Code! Please take the time to read through these:
 * [C4Q Values](values.md)
 * [Student resources](resources.md): Student resources
 * [Pod guidelines](pods.md)
+* [Code Review guidelines](code-review.md)
 
 **Cheatsheets**
 
