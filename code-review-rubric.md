@@ -18,9 +18,9 @@ This is the most important criterion. A program must meet its specifications and
 Code needs to be readable to both you and a knowledgeable third party. This involves:
 
 * Using indentation consistently (e.g., every method's body is indented to the same level)
-* Adding whitespace (blank lines, spaces) where appropriate to help separate distinct parts of the code (e.g., space after commas in lists, blank lines between functions or between blocks of related lines within functions, etc.)
-* Giving variables meaningful names. Variables named A, B, and C or foo, bar, and baz give the reader no information whatsoever about their purpose or what information they may hold. Names like principal, maximum, and counter are much more useful. Loop variables are a common exception to this idea, and loop variables named i, j, etc. are okay.
-* The code should be well organized. Functions should be defined in one section of the program, code should be organized into functions so that blocks of code that need to be reused are contained within functions to enable that, and functions should have meaningful names.
+* Adding whitespace (blank lines, spaces) where appropriate to help separate distinct parts of the code (e.g., space after commas in lists, blank lines between methods or between blocks of related lines within methods, etc.)
+* Giving variables meaningful names. Variables named `A`, `B`, and `C` or `foo`, `bar`, and `baz` give the reader no information whatsoever about their purpose or what information they may hold. Names like `principal`, `maximum`, and `counter` are much more useful. Loop variables are a common exception to this idea, and loop variables named `i`, `j`, etc. are okay.
+* The code should be well organized. Methods should be defined in one section of the program, code should be organized into methods so that blocks of code that need to be reused are contained within methods to enable that, and methods should have meaningful names.
 
 Please refer to the [Google Java style guide](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html) for an idea of what 'Excellent' readability might look like.
 
