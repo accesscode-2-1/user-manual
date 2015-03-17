@@ -2,7 +2,7 @@
 
 This document lays out common criteria used to review student code.
 
-| Criterion | Excellent | Good | OK | Developing |
+| Criterion | Excellent | Good | Adequate | Developing |
 |---|---|---|---|---|
 | **Program Specifications / Correctness** | No errors, program always works correctly and meets the specification(s). | Minor details of the program specification are violated, program functions incorrectly for some inputs. | Significant details of the specification are violated, program often exhibits incorrect behavior. | Program only functions correctly in very limited cases or not at all. |
 | **Readability** | No errors, code is clean, understandable, and well-organized. | Minor issues with consistent indentation, use of whitespace, variable naming, or general organization. | At least one major issue with indentation, whitespace, variable names, or organization. | Major problems with at three or four of the readability subcategories. |
