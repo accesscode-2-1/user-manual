@@ -1,6 +1,6 @@
 # Access Code Code of Conduct
 
-All coordinators, instructors, students and volunteers at any Access Code event are required to agree with the following code of conduct. Coordinators will enforce this code throughout the event.
+All coordinators, instructors, students and volunteers at any Access Code event are required to agree with the following code of conduct. Coordinators will enforce this code throughout the program.
 
 ##The Quick Version
 
