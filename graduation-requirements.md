@@ -11,7 +11,7 @@ During Access Code, you'll be continuously learning and gaining valuable skills 
 3. Complete all homework assignments given in class, including developing and publishing apps on Google Play and performing demonstrations at C4Q Demo Day and other events.
     1. **You must submit all the homework for a unit before the start of the following unit.**
 4. Master all the crucial technical and non-technical skills taught by C4Q.
-    1. **You pass the final assessment.**
+    1. **You must pass the final assessment.**
 5. Participate in all assessments distributed by C4Q.
     1. This includes exit tickets, quizzes, and assessments.
 
